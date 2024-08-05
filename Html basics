@@ -45,3 +45,6 @@ JAVASCRIPT code controls the interactivity of a web page
 ⭐ You can use nesting to make the text bold, italic and underlined with the <b>, <i> and <u> formatting tags
 
 ⭐ You can make your web pages more accessible with the use of <strong> and <em> semantic formatting tags
+
+<p><strong>Bold</strong> text</p> 
+<p><em>Italic</em> text</p>
