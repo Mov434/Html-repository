@@ -1,1 +1,47 @@
+⭐ What everything do:
 
+HTML code controls the structure of a web page
+CSS code controls the style of a web page
+JAVASCRIPT code controls the interactivity of a web page
+
+⭐ Some examples of HTML tags are <button>, <img>, <table> and <p>
+
+⭐ Elements like buttons and paragraph text require container tags
+
+⭐ Container tags consist of both opening < > and closing </> tags
+
+⭐ Empty tags consist of just one <> for example: <img src="html.com>
+
+⭐ There are many advantages of using headings in your pages
+
+⭐ You can use up to 6 levels of headings
+
+⭐ Headings require container tags
+
+⭐ Images can be linked or embedded in web pages
+
+⭐ Images don’t require closing tags
+
+⭐ The source (url) of the image is needed for the image to be found on the internet
+
+⭐ Comments make your code easier to read and understand
+
+⭐ The <!--...--> tag allows you to add comments to your code
+
+⭐ The <br> tag is used to create line breaks
+
+⭐ HTML documents can be organized into head and body
+
+​​⭐ The <body> tag ensures compatibility with all browsers
+
+⭐ Indentation helps with readability and therefore collaboration
+
+⭐ Indentation is the space at the beginning of lines
+
+<p><b>Bold</b> text</p> 
+<p><i>Italic</i> text</p>
+<p><u>Underlined</u> text</p>
+
+⭐ You can use nesting to make the text bold, italic and underlined with the <b>, <i> and <u> formatting tags
+
+⭐ You can make your web pages more accessible with the use of <strong> and <em> semantic formatting tags
