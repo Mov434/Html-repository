@@ -48,3 +48,11 @@ JAVASCRIPT code controls the interactivity of a web page
 
 <p><strong>Bold</strong> text</p> 
 <p><em>Italic</em> text</p>
+
+⭐ You can insert links in pages with the anchor <a> tag
+
+⭐ The <a> tag can be nested inside text elements
+
+⭐ The destination URL goes with href
+
+<a href"url">text</a>
