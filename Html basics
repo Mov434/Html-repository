@@ -26,7 +26,7 @@ JAVASCRIPT code controls the interactivity of a web page
 
 ⭐ Comments make your code easier to read and understand
 
-⭐ The <!--...--> tag allows you to add comments to your code
+⭐ The <!--.....--> tag allows you to add comments to your code <!-- for the start and --> for the end
 
 ⭐ The <br> tag is used to create line breaks
 
@@ -55,4 +55,23 @@ JAVASCRIPT code controls the interactivity of a web page
 
 ⭐ The destination URL goes with href
 
-<a href"url">text</a>
+for example: <a href"url">text</a>
+
+⭐ Lists are made of list items <li>
+
+⭐ You can add ordered <ol> and unordered <ul> lists to web pages
+
+Ordered (ol) is 1,2,3 and unordered is just º
+
+⭐ You can nest lists inside each other
+
+for example: <ol>
+  <li>First item</li>
+    <ul>
+      <li>Subitem A</li>
+      <li>Subitem B</li>
+    </ul>
+  <li>Second item</li>
+</ol>
+
+
